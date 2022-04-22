@@ -1,5 +1,10 @@
-#include <bits/stdc++.h>
-using namespace std;
+/*
+ * @lc app=leetcode id=4 lang=cpp
+ *
+ * [4] Median of Two Sorted Arrays
+ */
+
+// @lc code=start
 class Solution
 {
 public:
@@ -24,11 +29,4 @@ public:
         return (m[n / 2] + m[(n / 2) - 1]) / 2;
     }
 };
-int main(void)
-{
-    vector<int> a({1, 2});
-    vector<int> b({3, 4});
-    Solution s;
-    cout << s.findMedianSortedArrays(a, b) << "\n";
-    return 0;
-}
+// @lc code=end

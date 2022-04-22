@@ -1,5 +1,10 @@
-#include <bits/stdc++.h>
-using namespace std;
+/*
+ * @lc app=leetcode id=704 lang=cpp
+ *
+ * [704] Binary Search
+ */
+
+// @lc code=start
 class Solution
 {
 public:
@@ -19,3 +24,4 @@ public:
         return -1;
     }
 };
+// @lc code=end

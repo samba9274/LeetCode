@@ -1,5 +1,10 @@
-#include <bits/stdc++.h>
-using namespace std;
+/*
+ * @lc app=leetcode id=41 lang=cpp
+ *
+ * [41] First Missing Positive
+ */
+
+// @lc code=start
 class Solution
 {
 public:
@@ -21,10 +26,4 @@ public:
         return k;
     }
 };
-int main(void)
-{
-    vector<int> a({3, 4, -1, 1});
-    Solution s;
-    cout << s.firstMissingPositive(a) << "\n";
-    return 0;
-}
+// @lc code=end

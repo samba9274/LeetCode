@@ -1,5 +1,10 @@
-#include <bits/stdc++.h>
-using namespace std;
+/*
+ * @lc app=leetcode id=283 lang=cpp
+ *
+ * [283] Move Zeroes
+ */
+
+// @lc code=start
 class Solution
 {
 public:
@@ -10,5 +15,7 @@ public:
             if (nums[i])
                 nums[j++] = nums[i];
         for (; j < nums.size(); nums[j++] = 0)
+            ;
     }
 };
+// @lc code=end

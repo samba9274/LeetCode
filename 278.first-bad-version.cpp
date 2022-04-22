@@ -1,5 +1,13 @@
-#include <bits/stdc++.h>
-using namespace std;
+/*
+ * @lc app=leetcode id=278 lang=cpp
+ *
+ * [278] First Bad Version
+ */
+
+// @lc code=start
+// The API isBadVersion is defined for you.
+// bool isBadVersion(int version);
+
 class Solution
 {
 public:
@@ -18,3 +26,4 @@ public:
         return -1;
     }
 };
+// @lc code=end

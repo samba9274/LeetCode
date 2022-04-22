@@ -1,5 +1,10 @@
-#include <bits/stdc++.h>
-using namespace std;
+/*
+ * @lc app=leetcode id=217 lang=cpp
+ *
+ * [217] Contains Duplicate
+ */
+
+// @lc code=start
 class Solution
 {
 public:
@@ -8,3 +13,4 @@ public:
         return nums.size() > set<int>(nums.begin(), nums.end()).size();
     }
 };
+// @lc code=end

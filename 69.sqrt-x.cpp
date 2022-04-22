@@ -1,5 +1,10 @@
-#include <bits/stdc++.h>
-using namespace std;
+/*
+ * @lc app=leetcode id=69 lang=cpp
+ *
+ * [69] Sqrt(x)
+ */
+
+// @lc code=start
 class Solution
 {
 public:
@@ -11,10 +16,4 @@ public:
         return --i;
     }
 };
-
-int main(void)
-{
-    Solution s;
-    cout << s.mySqrt(9) << "\n";
-    return 0;
-}
+// @lc code=end
