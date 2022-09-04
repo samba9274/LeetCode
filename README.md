@@ -46,3 +46,4 @@
 |858|Mirror Reflection|[Problem](https://leetcode.com/problems/mirror-reflection/description/)|[Code](https://github.com/samba9274/LeetCode/blob/master/858.mirror-reflection.cpp)|
 |876|Middle of the Linked List|[Problem](https://leetcode.com/problems/middle-of-the-linked-list/description/)|[Code](https://github.com/samba9274/LeetCode/blob/master/876.middle-of-the-linked-list.cpp)|
 |977|Squares of a Sorted Array|[Problem](https://leetcode.com/problems/squares-of-a-sorted-array/description/)|[Code](https://github.com/samba9274/LeetCode/blob/master/977.squares-of-a-sorted-array.cpp)|
+|987|Vertical Order Traversal of a Binary Tree|[Problem](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/)|[Code](https://github.com/samba9274/LeetCode/blob/master/987.vertical-order-traversal-of-a-binary-tree.cpp)|
