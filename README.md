@@ -39,6 +39,7 @@
 |429|N-ary Tree Level Order Traversal|[Problem](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/)|[Code](https://github.com/samba9274/LeetCode/blob/master/429.n-ary-tree-level-order-traversal.cpp)|
 |441|Arranging Coins|[Problem](https://leetcode.com/problems/arranging-coins/description/)|[Code](https://github.com/samba9274/LeetCode/blob/master/441.arranging-coins.cpp)|
 |557|Reverse Words in a String III|[Problem](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)|[Code](https://github.com/samba9274/LeetCode/blob/master/557.reverse-words-in-a-string-iii.cpp)|
+|606|Construct String from Binary Tree|[Problem](https://leetcode.com/problems/construct-string-from-binary-tree/description/)|[Code](https://github.com/samba9274/LeetCode/blob/master/606.construct-string-from-binary-tree.cpp)|
 |637|Average of Levels in Binary Tree|[Problem](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)|[Code](https://github.com/samba9274/LeetCode/blob/master/637.average-of-levels-in-binary-tree.cpp)|
 |704|Binary Search|[Problem](https://leetcode.com/problems/binary-search/description/)|[Code](https://github.com/samba9274/LeetCode/blob/master/704.binary-search.cpp)|
 |705|Design HashSet|[Problem](https://leetcode.com/problems/design-hashset/description/)|[Code](https://github.com/samba9274/LeetCode/blob/master/705.design-hash-set.cpp)|
