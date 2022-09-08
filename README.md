@@ -21,6 +21,7 @@
 |41|First Missing Positive|[Problem](https://leetcode.com/problems/first-missing-positive/description/)|[Code](https://github.com/samba9274/LeetCode/blob/master/41.first-missing-positive.cpp)|
 |62|Unique Paths|[Problem](https://leetcode.com/problems/unique-paths/description/)|[Code](https://github.com/samba9274/LeetCode/blob/master/62.unique-paths.cpp)|
 |69|Sqrt(x)|[Problem](https://leetcode.com/problems/sqrtx/description/)|[Code](https://github.com/samba9274/LeetCode/blob/master/69.sqrt-x.cpp)|
+|94|Binary Tree Inorder Traversal|[Problem](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)|[Code](https://github.com/samba9274/LeetCode/blob/master/94.binary-tree-inorder-traversal.cpp)|
 |108|Convert Sorted Array to Binary Search Tree|[Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)|[Code](https://github.com/samba9274/LeetCode/blob/master/108.convert-sorted-array-to-binary-search-tree.cpp)|
 |167|Two Sum II - Input Array Is Sorted|[Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[Code](https://github.com/samba9274/LeetCode/blob/master/167.two-sum-ii-input-array-is-sorted.cpp)|
 |189|Rotate Array|[Problem](https://leetcode.com/problems/rotate-array/description/)|[Code](https://github.com/samba9274/LeetCode/blob/master/189.rotate-array.cpp)|
