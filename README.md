@@ -50,3 +50,4 @@
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/876.middle-of-the-linked-list.cpp)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/977.squares-of-a-sorted-array.cpp)|Easy|
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/987.vertical-order-traversal-of-a-binary-tree.cpp)|Hard|
+|1996|[The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/1996.the-number-of-weak-characters-in-the-game.cpp)|Medium|
