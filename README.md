@@ -37,6 +37,7 @@
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/377.combination-sum-iv.cpp)|Medium|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/378.kth-smallest-element-in-a-sorted-matrix.cpp)|Medium|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/392.is-subsequence.cpp)|Easy|
+|393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/393.utf-8-validation.cpp)|Medium|
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/429.n-ary-tree-level-order-traversal.cpp)|Medium|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/441.arranging-coins.cpp)|Easy|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/557.reverse-words-in-a-string-iii.cpp)|Easy|
