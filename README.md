@@ -52,4 +52,5 @@
 |948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/948.bag-of-tokens.cpp)|Medium|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/977.squares-of-a-sorted-array.cpp)|Easy|
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/987.vertical-order-traversal-of-a-binary-tree.cpp)|Hard|
+|1457|[Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/1457.pseudo-palindromic-paths-in-a-binary-tree.cpp)|Medium|
 |1996|[The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/1996.the-number-of-weak-characters-in-the-game.cpp)|Medium|
