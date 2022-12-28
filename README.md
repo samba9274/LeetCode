@@ -1,5 +1,7 @@
 # LeetCode
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/samba9274?ext=heatmap&animation=false&border=0&radius=15&hide=ranking)](https://leetcode.com/samba9274)
+
 ### Solved problems
 
 |#|Title|Solution|Difficulty|
