@@ -42,6 +42,7 @@
 |393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/393.utf-8-validation.cpp)|Medium|
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/429.n-ary-tree-level-order-traversal.cpp)|Medium|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/441.arranging-coins.cpp)|Easy|
+|520|[Detect Capital](https://leetcode.com/problems/detect-capital/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/520.detect-capital.cpp)|Easy|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/557.reverse-words-in-a-string-iii.cpp)|Easy|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/606.construct-string-from-binary-tree.cpp)|Easy|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/637.average-of-levels-in-binary-tree.cpp)|Easy|
@@ -56,6 +57,7 @@
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/987.vertical-order-traversal-of-a-binary-tree.cpp)|Hard|
 |1457|[Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/1457.pseudo-palindromic-paths-in-a-binary-tree.cpp)|Medium|
 |1770|[Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/1770.maximum-score-from-performing-multiplication-operations.cpp)|Medium|
+|1834|[Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/1834.single-threaded-cpu.cpp)|Medium|
 |1962|[Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/1962.remove-stones-to-minimize-the-total.cpp)|Medium|
 |1996|[The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/1996.the-number-of-weak-characters-in-the-game.cpp)|Medium|
 |2007|[Find Original changedrray From Doubled changedrray](https://leetcode.com/problems/find-original-array-from-doubled-array/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/2007.find-original-array-from-doubled-array.cpp)|Medium|
