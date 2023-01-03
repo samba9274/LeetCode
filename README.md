@@ -53,6 +53,7 @@
 |729|[My Calendar I](https://leetcode.com/problems/my-calendar-i/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/729.my-calendar-i.cpp)|Medium|
 |858|[Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/858.mirror-reflection.cpp)|Medium|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/876.middle-of-the-linked-list.cpp)|Easy|
+|944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/944.delete-columns-to-make-sorted.cpp)|Easy|
 |948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/948.bag-of-tokens.cpp)|Medium|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/977.squares-of-a-sorted-array.cpp)|Easy|
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/987.vertical-order-traversal-of-a-binary-tree.cpp)|Hard|
