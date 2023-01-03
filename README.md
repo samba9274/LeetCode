@@ -27,6 +27,7 @@
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/108.convert-sorted-array-to-binary-search-tree.cpp)|Easy|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/167.two-sum-ii-input-array-is-sorted.cpp)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/189.rotate-array.cpp)|Medium|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/206.reverse-linked-list.cpp)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/217.contains-duplicate.cpp)|Easy|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/235.lowest-common-ancestor-of-a-binary-search-tree.cpp)|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/278.first-bad-version.cpp)|Easy|
