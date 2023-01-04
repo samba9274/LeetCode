@@ -62,3 +62,4 @@
 |1962|[Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/1962.remove-stones-to-minimize-the-total.cpp)|Medium|
 |1996|[The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/1996.the-number-of-weak-characters-in-the-game.cpp)|Medium|
 |2007|[Find Original changedrray From Doubled changedrray](https://leetcode.com/problems/find-original-array-from-doubled-array/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/2007.find-original-array-from-doubled-array.cpp)|Medium|
+|2244|[Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/)|[C++](https://github.com/samba9274/LeetCode/blob/master/2244.minimum-rounds-to-complete-all-tasks.cpp)|Medium|
